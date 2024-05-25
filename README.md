@@ -1,13 +1,6 @@
 ## 🌟 Basic APP for Test LLM Using WatsonX.AI
-## ℹ️ Overview
-
-A paragraph explaining your work, who you are, and why you made it.
-
-
-### ✍️ Authors
-
-Mention who you are and link to your GitHub or organization's website.
-
+## ℹ️ Preview
+img align="right" alt="Coding" width="400" src="Preview.png">
 
 ## 🚀 Usage
 
