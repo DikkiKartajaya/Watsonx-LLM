@@ -1,6 +1,6 @@
 ## 🌟 Basic APP for Test LLM Using WatsonX.AI
 ## ℹ️ Preview
-<img align="right" alt="Coding" width="400" src="Preview.png">
+![Website Preview](Preview.png)
 
 ## 🚀 Usage
 
